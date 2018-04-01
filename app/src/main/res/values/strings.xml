@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleListView</string>
+
+    <string-array name="CompanyName">
+        <item>Microsoft</item>
+        <item>Google</item>
+        <item>Microsoft</item>
+        <item>Yahoo</item>
+        <item>Hp</item>
+        <item>Sony</item>
+        <item>Samsung</item>
+        <item>Micromax</item>
+        <item>Huawei</item>
+        <item>Nokia</item>
+        <item>LG</item>
+        <item>HTC</item>
+        <item>Motorola</item>
+    </string-array>
+</resources>
